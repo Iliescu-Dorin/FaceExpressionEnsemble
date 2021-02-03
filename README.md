@@ -13,8 +13,8 @@ Face  Expression Recognition with ensemble for InceptionV3, ResNet50, MobileNetV
 <!-- PROJECT LOGO -->
 <br />
 <p align="center">
-  <a href="https://github.com/radioactive11/Facial-Expression-Recognition">
-    <img src="post.png" alt="Logo" width="400" height="400">
+  <a href="https://github.com/Iliescu-Dorin/FaceExpressionEnsemble/">
+    <img src="Screenshot_44.png" alt="Logo" width="400" height="400">
   </a>
 
   <h2 align="center">Facial Expression Recognition</h>
