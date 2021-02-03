@@ -72,17 +72,18 @@ The training dataset contains:
 
 ### Built With
 
-* [Python](https://www.python.org/)
-* [TensorFlow](https://www.tensorflow.org/)
+* [Python 3](https://www.python.org/)
+* [TensorFlow 2](https://www.tensorflow.org/)
+* [TensorFlow Hub](https://tfhub.dev/)
 * [Keras](keras.io)
 * [OpenCV](https://opencv.org/)
-* [Flask](https://flask.palletsprojects.com/en/1.1.x/)
+* [ImageMagick Comand-line Tool](https://imagemagick.org/index.php)
 
 
 <!-- GETTING STARTED -->
 ## Getting Started
 
-You will need Python (>3.6), TensorFlow2 to run this. <br/>
+You will need Python (>3.6), TensorFlow 2 to run this. <br/>
 Installation of required packages is covered under ```installation``` </br>
 To get a local copy up and running follow these simple example steps.
 
