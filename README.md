@@ -161,8 +161,10 @@ Distributed under the MIT License. See `LICENSE` for more information.
 <!-- CONTACT -->
 ## Contact
 
-Arijit Roy - [@this_is_radioactive11](https://www.instagram.com/this_is_radioactive11/) <br />
-Project Link: [https://github.com/radioactive11/Facial-Expression-Recognition](https://github.com/radioactive11/Facial-Expression-Recognition)
+Andreea Coaja - [Linkedin Profile](https://www.linkedin.com/in/andreea-coaja-964208162/) <br />
+Mihail Dorin Iliescu - [Linkedin Profile](https://www.linkedin.com/in/dorin-iliescu) <br />
+Jamil Zaitouny - [Linkedin Profile](https://www.linkedin.com/in/jamil-zaitouny/) <br />
+Project Link: [https://github.com/Iliescu-Dorin/FaceExpressionEnsemble/](https://github.com/Iliescu-Dorin/FaceExpressionEnsemble/)
 
 
 
