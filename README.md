@@ -169,17 +169,17 @@ Project Link: [https://github.com/radioactive11/Facial-Expression-Recognition](h
 
 
 [contributors-shield]: https://img.shields.io/github/contributors/radioactive11/Facial-Expression-Recognition.svg?style=flat-square
-[contributors-url]: https://github.com/radioactive11/Facial-Expression-Recognition/graphs/contributors
+[contributors-url]: https://github.com/Iliescu-Dorin/FaceExpressionEnsemble/graphs/contributors
 [forks-shield]: https://img.shields.io/github/forks/radioactive11/Facial-Expression-Recognition.svg?style=flat-square
-[forks-url]: https://github.com/radioactive11/Facial-Expression-Recognition/network/members
+[forks-url]: https://github.com/Iliescu-Dorin/FaceExpressionEnsemble/network/members
 [stars-shield]: https://img.shields.io/github/stars/radioactive11/Facial-Expression-Recognition.svg?style=flat-square
-[stars-url]: https://github.com/radioactive11/Facial-Expression-Recognition/stargazers
+[stars-url]: https://github.com/Iliescu-Dorin/FaceExpressionEnsemble/stargazers
 [issues-shield]: https://img.shields.io/github/issues/radioactive11/Facial-Expression-Recognition.svg?style=flat-square
-[issues-url]: https://github.com/radioactive11/Facial-Expression-Recognition/issues
+[issues-url]: https://github.com/Iliescu-Dorin/FaceExpressionEnsemble/issues
 [license-shield]: https://img.shields.io/github/license/radioactive11/Facial-Expression-Recognition.svg?style=flat-square
-[license-url]: https://github.com/radioactive11/Facial-Expression-Recognition/blob/master/LICENSE.txt
+[license-url]: https://github.com/Iliescu-Dorin/FaceExpressionEnsemble/blob/master/LICENSE.txt
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=flat-square&logo=linkedin&colorB=555
-[linkedin-url]: https://linkedin.com/in/arijit--roy
+[linkedin-url]: https://www.linkedin.com/in/dorin-iliescu/
 [product-screenshot]: 1_Moment.jpg
 [product-post]: images/post.png
 
