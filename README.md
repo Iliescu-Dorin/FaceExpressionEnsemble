@@ -14,8 +14,9 @@ Face  Expression Recognition with ensemble for InceptionV3, ResNet50, MobileNetV
 <br />
 <p align="center">
   <a href="https://github.com/Iliescu-Dorin/FaceExpressionEnsemble/">
-    <img src="Screenshot_44.png" alt="Logo" width="400" height="300">
+    <img src="Logo.png" alt="Logo" width="400" height="300">
   </a>
+
 
   <h2 align="center">Facial Expression Recognition</h>
 
@@ -171,15 +172,15 @@ Project Link: [https://github.com/Iliescu-Dorin/FaceExpressionEnsemble/](https:/
 
 
 
-[contributors-shield]: https://img.shields.io/github/contributors/radioactive11/Facial-Expression-Recognition.svg?style=flat-square
+[contributors-shield]: https://img.shields.io/github/contributors/Iliescu-Dorin/FaceExpressionEnsemble.svg?style=flat-square
 [contributors-url]: https://github.com/Iliescu-Dorin/FaceExpressionEnsemble/graphs/contributors
-[forks-shield]: https://img.shields.io/github/forks/radioactive11/Facial-Expression-Recognition.svg?style=flat-square
+[forks-shield]: https://img.shields.io/github/forks/Iliescu-Dorin/FaceExpressionEnsemble.svg?style=flat-square
 [forks-url]: https://github.com/Iliescu-Dorin/FaceExpressionEnsemble/network/members
-[stars-shield]: https://img.shields.io/github/stars/radioactive11/Facial-Expression-Recognition.svg?style=flat-square
+[stars-shield]: https://img.shields.io/github/stars/Iliescu-Dorin/FaceExpressionEnsemble.svg?style=flat-square
 [stars-url]: https://github.com/Iliescu-Dorin/FaceExpressionEnsemble/stargazers
-[issues-shield]: https://img.shields.io/github/issues/radioactive11/Facial-Expression-Recognition.svg?style=flat-square
+[issues-shield]: https://img.shields.io/github/issues/Iliescu-Dorin/FaceExpressionEnsemble.svg?style=flat-square
 [issues-url]: https://github.com/Iliescu-Dorin/FaceExpressionEnsemble/issues
-[license-shield]: https://img.shields.io/github/license/radioactive11/Facial-Expression-Recognition.svg?style=flat-square
+[license-shield]: https://img.shields.io/github/license/Iliescu-Dorin/FaceExpressionEnsemble.svg?style=flat-square
 [license-url]: https://github.com/Iliescu-Dorin/FaceExpressionEnsemble/blob/master/LICENSE.txt
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=flat-square&logo=linkedin&colorB=555
 [linkedin-url]: https://www.linkedin.com/in/dorin-iliescu/
